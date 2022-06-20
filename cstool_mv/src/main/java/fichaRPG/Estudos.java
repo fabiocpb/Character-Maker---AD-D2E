@@ -1,4 +1,4 @@
-package dd5.cstool_mv;
+package fichaRPG;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
